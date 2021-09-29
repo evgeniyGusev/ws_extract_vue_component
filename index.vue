@@ -3,7 +3,7 @@
 		<component is="someComponentFromImports"/>
 
     <main-header />
-    <dark-bg-blockg />
+    <dark-bg-block />
 
 		<div id="extract_me">
 			<div>
